@@ -1,0 +1,4 @@
+http://www.msfn.org/board/quicktime-programming-windows-t113195.html
+
+http://developer.apple.com/mac/library/samplecode/ElectricImageComponent/Introduction/Intro.html
+http://developer.apple.com/mac/library/technotes/tn/tn2012.html

@@ -1,0 +1,12 @@
+- körvonal háromszögek sorozatával (tömb)
+	- kezdőpont kord.(háromszög első pontja), hsz.második pontja
+	- további pontok tulajdonságtömb-bel
+		[
+			{eltolás: xy(?auto 1px?), permutáció_index: x(forgatás permutációi tömbelemként), transzformáció: ???(2.szög eltolás+-xx, vagy merőleges vektor hossza +-x...)},
+			{eltolás: xy(?auto 1px?), permutáció_index: x(forgatás permutációi tömbelemként), transzformáció: ???(2.szög eltolás+-xx, vagy merőleges vektor hossza +-x...)},
+			...,
+			{null},  //ha autoeltolás alapú tárolás, akkor a nem körvonalhoz tartozó pontok, vagy a már szereplő pontok "null" értékű tömbelemek
+			...
+			{null},
+			{eltolás: xy(?auto 1px?), permutáció_index: x(forgatás permutációi tömbelemként), transzformáció: ???(2.szög eltolás+-xx, vagy merőleges vektor hossza +-x...)}
+		]

@@ -1,0 +1,20 @@
+
+ff d8...ff d9		1.kép-> 11 A0    vége-> c9 70
+ff d8...ff d9		2.kép-> c9 80
+ff d8...ff d9 ff ff ff
+ff d8...ff d9 ff ff ff 
+00 00
+88 63 
+7d 75
+ff d8...ff d9
+00 00
+...
+
+7b 7d
+// fájl vége
+
+
+---------------------------------
+méret	4 byte	("00 E2 58 00" - 14.833.644 byte)
+type	4 byte	("mdat")
+
